@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 
-contract Taiko {
+contract Linea {
   
   address public owner;
 
@@ -15,7 +15,7 @@ contract Taiko {
         _;
   }
 
-    string public greet = "Hello, Crypton Prime!";
+    string public greet = "Hello from Phratry DAO";
 
     function pay() external payable {}
 
